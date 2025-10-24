@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @1firecracker
-- 👀 I’m interested in computer science and technology , expecially in the Java -- using Idea to code
+- 👀 I’m interested in computer science and technology , expecially in the LLM, if you like agent/llm or also a kaggler, we can discuss this together!
 - 🌱 I’m currently learning soft enginerring 
 - 📫 How to reach me
 - vx : b15526792626
